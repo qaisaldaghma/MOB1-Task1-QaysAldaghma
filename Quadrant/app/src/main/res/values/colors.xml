@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="quad_1">#FADAC0</color>
+    <color name="quad_2">#F7EBE1</color>
+    <color name="quad_3">#F7EBE1</color>
+    <color name="quad_4">#FADAC0</color>
+    <color name="text_primary">#1F1B16</color>
+</resources>
